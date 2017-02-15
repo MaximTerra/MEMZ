@@ -70,19 +70,21 @@ const char *msgs[] = {
 	"BSOD INCOMING",
 	"VIRUS PRANK (GONE WRONG)",
 	"ENJOY THE NYAN CAT",
-	"Get dank antivirus m9!",
+	"Deez memz are so dank, you're computer will crash!",
 	"You are an idiot!\r\nHA HA HA HA HA HA HA",
 	"#MakeMalwareGreatAgain",
 	"SOMEBODY ONCE TOLD ME THE MEMZ ARE GONNA ROLL ME",
 	"Why did you even tried to kill MEMZ?\r\nYour PC is fucked anyway.",
 	"SecureBoot sucks.",
-	"gr8 m8 i r8 8/8",
+	"Well done, Jimmy. 11/10!",
 	"Have you tried turning it off and on again?",
 	"<Insert Joel quote here>",
 	"Greetings to all GAiA members!",
 	"Well, hello there. I don't believe we've been properly introduced. I'm Bonzi!",
 	"'This is everything I want in my computer'\r\n - danooct1 2016",
 	"'Uh, Club Penguin. Time to get banned!'\r\n - danooct1 2016",
+	"CRASH INCOMING!!!!!!!!!!!!!!!!!!!!!!!11!",
+	"*insert EXPLOSIONZZZZ here*",
 };
 
 const size_t nMsgs = sizeof(msgs) / sizeof(void *);
